@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Ramon</h1>
 <h3 align="center">I am a Junior Full Stack Developer | Proficient in JavaScript | React | Node.js | HTML & CSS | MySQL</h3>
-<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjRxZ2NqazZqd2k5dGp0MHJmZ2U2aWc0NXB6bHMwa3gycm01ZW14cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.webp">
+<img alt="Coding"  src="https://www.shutterstock.com/image-vector/programming-banner-coding-best-languages-260nw-1033853617.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=woolfy25&label=Profile%20views&color=0e75b6&style=flat" alt="woolfy25" /> </p>
 
