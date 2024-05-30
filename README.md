@@ -1,3 +1,4 @@
+<img alt="Coding" width="100%" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg">
 <h1 align="center">Hello 👋, I'm Ramon</h1>
 <h3 align="center">I am a Junior Full Stack Developer | Proficient in JavaScript | React | Node.js | HTML & CSS | MySQL</h3>
 
