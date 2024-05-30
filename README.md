@@ -1,4 +1,3 @@
-<img alt="Coding"  src="https://www.shutterstock.com/image-vector/programming-banner-coding-best-languages-260nw-1033853617.jpg">
 <h1 align="center">Hello 👋, I'm Ramon</h1>
 <h3 align="center">I am a Junior Full Stack Developer | Proficient in JavaScript | React | Node.js | HTML & CSS | MySQL</h3>
 
