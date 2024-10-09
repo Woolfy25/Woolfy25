@@ -2,11 +2,11 @@
 <h1 align="center">Hello 👋, I'm Ramon</h1>
 <h3 align="center">I am a Junior Full Stack Developer | Proficient in JavaScript | React | Node.js | HTML & CSS</h3>
 
-<p align="left"> <a href="https://www.linkedin.com/in/ramon-ciutre/"><img src="https://github-profile-trophy.vercel.app/?username=woolfy25" alt="woolfy25" /></a> </p>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=woolfy25&label=Profile%20views&color=0e75b6&style=flat" alt="woolfy25" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=woolfy25" alt="woolfy25" /></a> </p>
+
+- 📫 All of my projects are available at [https://www.linkedin.com/in/ramon-ciutre/](https://www.linkedin.com/in/ramon-ciutre/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Woolfy25?tab=repositories](https://github.com/Woolfy25?tab=repositories)
 
