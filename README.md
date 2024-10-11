@@ -1,6 +1,6 @@
 <img alt="Coding" width="100%" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg">
 <h1 align="center">Hello 👋, I'm Ramon</h1>
-<h3 align="center">I am a Junior Full Stack Developer | Proficient in JavaScript | React | Node.js | HTML & CSS</h3>
+<h3 align="center">I am a Junior Full Stack Developer | Proficient in JavaScript | React | Node.js | NoSQL | HTML & CSS</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=woolfy25&label=Profile%20views&color=0e75b6&style=flat" alt="woolfy25" /> </p>
 
